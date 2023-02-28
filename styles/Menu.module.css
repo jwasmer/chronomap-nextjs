@@ -1,0 +1,11 @@
+.menuWrapper {
+  pointer-events: auto;
+  position: absolute;
+  top: 77px;
+  width: 200px;
+  transform: translateX(-70%);
+  background-color: var(--bg);
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  padding: 1rem;
+}

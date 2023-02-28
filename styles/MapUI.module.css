@@ -1,0 +1,17 @@
+.form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav {
+  pointer-events: none;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  z-index: 1;
+  color: var(--text-color)
+}

@@ -28,6 +28,7 @@
     "typescript": "4.9.5"
   },
   "devDependencies": {
+    "@types/react-transition-group": "^4.4.5",
     "supabase": "^1.38.7"
   }
 }
